@@ -1,0 +1,17 @@
+body {
+    background:#efefef;
+}
+h1 {
+    padding:20px 0 2px 10px;
+    border-bottom: 1px solid;
+    text-transform:uppercase;
+    color:#444;
+    font-family: sans-serif;
+}
+
+.content {
+    box-shadow: 4px 4px 4px grey;
+    padding:16px;
+    margin:10px;
+    background-color: #fefefe;
+}
